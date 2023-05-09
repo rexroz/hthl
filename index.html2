@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table Example</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th></th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
+        <tr>
+            <th>Morning</th>
+            <td>Yoga</td>
+            <td>Running</td>
+            <td>Swimming</td>
+            <td></td>
+            <td>Running</td>
+        </tr>
+        <tr>
+            <th>Afternoon</th>
+            <td></td>
+            <td>Tennis</td>
+            <td></td>
+            <td>Yoga</td>
+            <td>Spinning</td>
+        </tr>
+        <tr>
+            <th>Evening</th>
+            <td>Basketball</td>
+            <td></td>
+            <td>Running</td>
+            <td>Yoga</td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
