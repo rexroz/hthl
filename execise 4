@@ -1,0 +1,17 @@
+
+<html>
+<head>
+	<title>Rexandroz</title>
+</head>
+<body>
+	<form>
+		<label for="name1">Name:</label>
+		<input type="text" id="name1" name="name1"><br><br>
+		
+		<label for="name2">Name:</label>
+		<input type="text" id="name2" name="name2"><br><br>
+		
+		<input type="submit" value="Send">
+	</form>
+</body>
+</html>
