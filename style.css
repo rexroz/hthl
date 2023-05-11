@@ -25,3 +25,29 @@ nav a:hover {
 
 section {
   padding: 50px;
+
+  
+  
+  
+  body {
+  background-color: #faebd6;
+}
+
+header {
+  background-color: #ff0000;
+  padding: 20px;
+  color: white;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+p:first-child {
+  color: #a42423;
+}
+
+p:last-child {
+  color: #00008f;
+}
